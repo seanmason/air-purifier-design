@@ -1,0 +1,31 @@
+{
+  "frame_mm": [
+    550.0,
+    230.0,
+    677.0
+  ],
+  "fan_centers_z_mm": [
+    188.5,
+    338.5,
+    488.5
+  ],
+  "nominal_filter_face_area_ratio_to_v01": 1.25,
+  "frame_footprint_reduction_vs_v01": 0.36111111111111116,
+  "foot_footprint_reduction_vs_v01": 0.16666666666666663,
+  "extrusion_net_m": 5.508,
+  "fan_to_filter_seat_gap_mm": 15.0,
+  "body_counts": {
+    "01 Frame - solid 2020 envelopes; slots and joints not modeled": 12,
+    "02 Panels - provisional 134 mm fan openings; no fastener holes": 4,
+    "03 Filters - illustrative 508 x 635 x 25; actual SKU required": 4,
+    "04 Continuous filter seats and gaskets - segment joints unresolved": 4,
+    "05 Six side-exhaust fans - simplified envelopes, not vendor CAD": 12,
+    "06 Filter retention tabs - illustrative only; no screws": 8,
+    "07 Stabilizer skids - 300 mm depth; rubber pads and attachment unresolved": 2,
+    "08 Guard keep-outs ONLY - purchase guards; finger protection not modeled": 12
+  },
+  "model_type": "Direct-model geometric layout; generator parameters are source of truth",
+  "unmodeled": "Slots, brackets, fasteners, cables, real guards, pleats, print segmentation",
+  "interference_checked_body_count": 46,
+  "positive_volume_interference_pairs_excluding_guard_keepouts": []
+}

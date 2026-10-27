@@ -2,9 +2,18 @@
 
 Research and preliminary design using 2020 aluminum extrusion, printed fittings, standard HVAC filters, and PC fans.
 
-**Status: concept v0.1 — not a fabrication release.** Dimensions, budget, and performance targets are provisional. No prototype has been built or measured.
+**Status: slim concept v0.2 — Fusion layout study, not a fabrication release.** No prototype has been built or measured.
 
-## Starting point
+The selected direction is a tall, slim six-fan cabinet with two nominal 20 × 25 inch filters. Develop one prototype, then evaluate two or more units for the user's approximately 600 ft² open floor plan connected to upstairs/downstairs hallways. At an assumed 8 ft ceiling, the 600 ft² alone needs 400 CFM for five equivalent clean-air changes/hour. Connected volume adds to this requirement.
+
+- [Selected slim design, multi-unit sizing, budget and CAD files](docs/slim-v02.md)
+- [How to identify the extrusion slot](docs/extrusion-identification.md)
+
+![Slim v0.2 Fusion layout study](design/slim-v02/slim-v02.png)
+
+Printer: Bambu H2D. Intended per-unit target remains 200 CFM at ≤35 dBA at 1 m, measured at the same setting. This is a target, not achieved performance. Frame dimensions are 550 × 230 × 677 mm; stabilizers, panels and guard reservations increase the envelope to approximately 586 × 300 × 707 mm. Parts allowance: $220–380 per unit.
+
+## Earlier v0.1 comparison baseline
 
 Two opposing nominal 20 × 20 × 1 inch MERV 13 filters feed a sealed cabinet with six 140 mm PWM fans exhausting upward. Extrusion provides the structure; small printed parts retain filters and cover corners. Flat sheet panels keep printing and assembly manageable.
 
@@ -20,4 +29,4 @@ For a provisional 300 ft² room with an 8 ft ceiling, target **200 CFM particle 
 
 ![Preliminary cabinet layout](design/concept.svg)
 
-Room size, budget, allowable footprint, pollutant priorities, printer size, and extrusion slot profile still need confirmation. Research checked 2026-10-27.
+The earlier 300 ft² room assumption below the v0.1 heading is retained as historical context. Current requirements are in the slim design brief. Ceiling height, connected volume, budget ceiling, pollutant priorities, actual filters, and extrusion slot profile still need confirmation. Research checked 2026-10-27.

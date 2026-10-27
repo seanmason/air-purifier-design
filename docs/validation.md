@@ -1,5 +1,7 @@
 # Prototype validation
 
+Current deployment: approximately 600 ft² connected to upstairs/downstairs hallways; Bambu H2D available. See [slim v0.2](slim-v02.md) for the multi-unit sizing plan. The 2,400 ft³ worked example below is illustrative, not the intended total space. Measure the first unit at its quiet setting before duplicating it; evaluate spatial mixing across occupied zones.
+
 No measured performance yet. Record CADR and noise at the **same fan setting**.
 
 ## Before fabrication

@@ -1,4 +1,6 @@
 # Concept v0.1
+Historical comparison baseline. The selected direction and current room requirements are in [slim v0.2](slim-v02.md).
+
 Preliminary engineering proposal, 2026-10-27. All dimensions below are millimeters unless marked otherwise. Do not cut extrusion from this document until actual filters, joints and fan mounting geometry are confirmed.
 
 ## Design objectives
