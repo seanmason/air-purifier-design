@@ -50,4 +50,5 @@ After cooling, remove strings/first-layer flare. Slide sample 1 into an accessib
 
 Fusion reports four solid bodies. PrusaSlicer reports four manifold parts, combined arrangement 93 × 10.8 × 4 mm. CLI slicing and the packaged 3MF round-trip slice succeeded with no support warnings. G-code checks confirm MK4S/MMU3, 0.6 mm nozzle, only T0, 240/75°C. `package_and_check.py` embeds configuration and verifies the assumed cross-section envelope. Physical fit and clamping strength remain unverified.
 
-Print initiation attempted through PrusaSlicer Connect, but the automation tool rejected interaction with the embedded WebView (process mismatch). No v02 start command was confirmed. User selected local PrusaLink setup as the next route. The revised project is loaded and its Connect scheduling dialog is open. Do not interpret file creation as a started print.
+User reports manually starting the v02 print on 2026-10-27. Completion and fit results are pending. The automated Connect attempt was blocked by an embedded WebView process mismatch. Local PrusaLink setup is deferred until the user updates firmware.
+
