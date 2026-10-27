@@ -2,6 +2,8 @@
 
 2020 normally describes a 20 × 20 mm outside section. It does not uniquely identify the slot shape, T-nut size or screw thread.
 
+Update 2026-10-27: the user supplied an end photo and measured the slot mouth at approximately **6.28 mm**. The exact profile, undercut cavity dimensions and lip thickness remain unconfirmed. [Printed metal-nut carriers](../design/nut-fit-v01/README.md) are available for a first fit check.
+
 1. Look for the supplier, receipt, package label or part number. An exact profile drawing is the best reference.
 2. Measure the outside width and height with calipers.
 3. Measure the narrow slot opening across its parallel lips using the inside jaws. Avoid measuring a chamfer or the wider cavity underneath. Check several points.

@@ -1,0 +1,41 @@
+[
+  {
+    "name": "carrier_1_width_10p0",
+    "width_mm": 10.0,
+    "length_mm": 18,
+    "body_height_mm": 4.2,
+    "guide_width_mm": 6.0,
+    "total_height_mm": 5.2,
+    "pocket_across_flats_mm": 8.3,
+    "pocket_depth_mm": 3.8,
+    "screw_clearance_diameter_mm": 5.5,
+    "volume_mm3": 567.4726607040336,
+    "solid": true
+  },
+  {
+    "name": "carrier_2_width_10p5",
+    "width_mm": 10.5,
+    "length_mm": 18,
+    "body_height_mm": 4.2,
+    "guide_width_mm": 6.0,
+    "total_height_mm": 5.2,
+    "pocket_across_flats_mm": 8.3,
+    "pocket_depth_mm": 3.8,
+    "screw_clearance_diameter_mm": 5.5,
+    "volume_mm3": 604.9585014386745,
+    "solid": true
+  },
+  {
+    "name": "carrier_3_width_11p0",
+    "width_mm": 11.0,
+    "length_mm": 18,
+    "body_height_mm": 4.2,
+    "guide_width_mm": 6.0,
+    "total_height_mm": 5.2,
+    "pocket_across_flats_mm": 8.3,
+    "pocket_depth_mm": 3.8,
+    "screw_clearance_diameter_mm": 5.5,
+    "volume_mm3": 642.444342173316,
+    "solid": true
+  }
+]
