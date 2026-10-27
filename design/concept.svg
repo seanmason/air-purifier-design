@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720" viewBox="0 0 1100 720">
+<rect width="1100" height="720" fill="#f6f8fa"/>
+<g font-family="Arial, sans-serif" fill="#172b3a">
+<text x="40" y="48" font-size="28" font-weight="bold">Quiet purifier / concept v0.1</text>
+<text x="40" y="78" font-size="16">Two filter faces · six 140 mm fans · 2020 extrusion frame</text>
+<text x="40" y="108" font-size="14" fill="#8c4b12">PRELIMINARY LAYOUT — dimensions illustrative; not a fabrication drawing</text>
+<text x="75" y="159" font-size="19" font-weight="bold">Front elevation</text>
+<rect x="75" y="185" width="330" height="330" fill="#344957"/>
+<rect x="87" y="197" width="306" height="306" fill="#fff" stroke="#c8d2d9"/>
+<g stroke="#d5dfe5" stroke-width="3">
+<path d="M105 210v280m16-280v280m16-280v280m16-280v280m16-280v280m16-280v280m16-280v280m16-280v280m16-280v280m16-280v280m16-280v280m16-280v280m16-280v280m16-280v280m16-280v280m16-280v280m16-280v280"/>
+</g>
+<rect x="140" y="318" width="200" height="72" rx="6" fill="#fff" stroke="#b8c7d1"/>
+<text x="240" y="347" font-size="18" text-anchor="middle">MERV 13 intake</text>
+<text x="240" y="373" font-size="14" text-anchor="middle">Matching filter on rear</text>
+<path d="M75 535h330m-330-6v12m330-12v12" stroke="#172b3a"/>
+<text x="240" y="561" font-size="16" text-anchor="middle">550 mm frame width</text>
+<text x="40" y="350" font-size="15" transform="rotate(-90 40 350)" text-anchor="middle">550 mm frame height</text>
+<path d="M155 179v-40m85 40v-40m85 40v-40" stroke="#159785" stroke-width="5"/>
+<path d="m149 146 6-10 6 10m73 0 6-10 6 10m73 0 6-10 6 10" fill="none" stroke="#159785" stroke-width="4"/>
+<text x="560" y="159" font-size="19" font-weight="bold">Top view / fan layout</text>
+<rect x="560" y="185" width="330" height="216" fill="#344957"/>
+<rect x="572" y="197" width="306" height="192" fill="#e5edf1"/>
+<rect x="593" y="206" width="84" height="84" rx="5" fill="#fff" stroke="#637985"/><circle cx="635" cy="248" r="35" fill="#c8e8e3" stroke="#159785" stroke-width="2"/><circle cx="635" cy="248" r="9" fill="#344957"/><rect x="593" y="296" width="84" height="84" rx="5" fill="#fff" stroke="#637985"/><circle cx="635" cy="338" r="35" fill="#c8e8e3" stroke="#159785" stroke-width="2"/><circle cx="635" cy="338" r="9" fill="#344957"/><rect x="683" y="206" width="84" height="84" rx="5" fill="#fff" stroke="#637985"/><circle cx="725" cy="248" r="35" fill="#c8e8e3" stroke="#159785" stroke-width="2"/><circle cx="725" cy="248" r="9" fill="#344957"/><rect x="683" y="296" width="84" height="84" rx="5" fill="#fff" stroke="#637985"/><circle cx="725" cy="338" r="35" fill="#c8e8e3" stroke="#159785" stroke-width="2"/><circle cx="725" cy="338" r="9" fill="#344957"/><rect x="773" y="206" width="84" height="84" rx="5" fill="#fff" stroke="#637985"/><circle cx="815" cy="248" r="35" fill="#c8e8e3" stroke="#159785" stroke-width="2"/><circle cx="815" cy="248" r="9" fill="#344957"/><rect x="773" y="296" width="84" height="84" rx="5" fill="#fff" stroke="#637985"/><circle cx="815" cy="338" r="35" fill="#c8e8e3" stroke="#159785" stroke-width="2"/><circle cx="815" cy="338" r="9" fill="#344957"/><path d="M560 423h330m-330-6v12m330-12v12" stroke="#172b3a"/>
+<text x="725" y="449" font-size="16" text-anchor="middle">550 mm</text>
+<text x="918" y="293" font-size="16" transform="rotate(-90 918 293)" text-anchor="middle">360 mm</text>
+<text x="560" y="488" font-size="15">Air enters front and rear; all fans exhaust upward.</text>
+<text x="560" y="514" font-size="15">Seal narrow sides, bottom and filter perimeters.</text>
+<text x="560" y="540" font-size="15">Guards and joint details omitted for clarity.</text>
+<rect x="40" y="596" width="1020" height="87" rx="8" fill="#e5edf1"/>
+<text x="60" y="625" font-size="16" font-weight="bold">Prototype goal: 200 CFM particle CADR at ≤35 dBA at 1 m, at the same fan speed.</text>
+<text x="60" y="651" font-size="15">Performance unmeasured. Measure actual filters before sizing seats or cutting extrusion.</text>
+</g></svg>
