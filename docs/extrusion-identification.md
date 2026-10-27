@@ -2,7 +2,7 @@
 
 2020 normally describes a 20 × 20 mm outside section. It does not uniquely identify the slot shape, T-nut size or screw thread.
 
-Update 2026-10-27: the user supplied an end photo and measured the slot mouth at approximately **6.28 mm**. The exact profile, undercut cavity dimensions and lip thickness remain unconfirmed. [Printed metal-nut carriers](../design/nut-fit-v01/README.md) are available for a first fit check.
+Update 2026-10-27: user measurements are **6.28 mm mouth, 11 mm cavity width, 6.2 mm total depth and approximately 5.7 mm floor width**. The rectangular v01 carriers failed physical fit. The closest published comparison is Wellste W-6-2020 (6.2 / 11 / 6.1 mm); this is a likely family match, not confirmed brand identification. Sloped inner corners do not by themselves imply V-slot. Exact lip depth and slope angle remain unconfirmed. [Revised chamfered carriers and source comparison](../design/nut-fit-v02/README.md) use thin M5 nuts and four fit variants.
 
 1. Look for the supplier, receipt, package label or part number. An exact profile drawing is the best reference.
 2. Measure the outside width and height with calipers.

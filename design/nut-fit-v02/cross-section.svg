@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510">
+<rect width="1000" height="510" fill="#fafafa"/><g font-family="Arial,sans-serif" fill="#172534">
+<text x="40" y="40" font-size="25">Revised fit: lower corners follow the sloping slot</text>
+<text x="40" y="72" font-size="16">Measured: 6.28 mm mouth · 11 mm cavity · 6.2 mm depth · ~5.7 mm floor</text>
+<g transform="translate(290,125) scale(32)">
+<path d="M-8 0H-3.14V1.8H-5.5V3.55L-2.85 6.2H2.85L5.5 3.55V1.8H3.14V0H8V8H-8Z" fill="#b7c1ca" stroke="#485661" stroke-width=".05"/>
+<path d="M-3.2 5.7H3.2L5.2 3.7V2.5H-5.2V3.7Z" fill="#a4d7c9" stroke="#18765b" stroke-width=".06"/>
+<rect x="-4" y="1.8" width="8" height="2.7" fill="#f5d495" stroke="#80531b" stroke-width=".06"/>
+<path d="M-2.5 1.8H2.5V4.5H-2.5Z" fill="#fafafa" stroke="#80531b" stroke-width=".04"/>
+<path d="M-2.75 4.5H2.75V5.7H-2.75Z" fill="#fafafa"/>
+<path d="M-4 1.8V5.8H4V1.8" fill="none" stroke="#ce3e3e" stroke-width=".06" stroke-dasharray=".18 .12"/>
+</g>
+<text x="600" y="155" font-size="18" fill="#80531b">Thin metal M5 nut: 8 AF × 2.7 mm</text>
+<text x="600" y="200" font-size="18" fill="#18765b">PETG carrier, sample 2</text>
+<text x="600" y="245" font-size="18" fill="#ce3e3e">Dashed: ordinary 4 mm nut</text>
+<text x="600" y="273" font-size="16">Its corners intersect the narrowed cavity.</text>
+<text x="40" y="430" font-size="16">Section through screw axis. End guides omitted. 1.8 mm lip depth and 45° slopes are assumptions.</text>
+<text x="40" y="460" font-size="16">0.5 mm nominal floor clearance with a 2.7 mm nut. Verify physical fit before tightening.</text>
+</g></svg>

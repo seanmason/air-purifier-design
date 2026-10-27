@@ -8,9 +8,10 @@ The selected direction is a tall, slim six-fan cabinet with two nominal 20 × 25
 
 - [Selected slim design, multi-unit sizing, budget and CAD files](docs/slim-v02.md)
 - [How to identify the extrusion slot](docs/extrusion-identification.md)
-- [Printable M5 nut-carrier fit samples for MK4S/MMU3](design/nut-fit-v01/README.md)
+- [Current chamfered M5 thin-nut fit samples for MK4S/MMU3](design/nut-fit-v02/README.md)
+- [Earlier rectangular samples — failed physical fit](design/nut-fit-v01/README.md)
 
-The user measured the slot mouth at approximately 6.28 mm. Nut fit tests use the user's Prusa MK4S with MMU3, a selected 0.6 mm nozzle and Bambu PETG HF; the previously reported Bambu H2D remains available. The nut-carrier folder contains the current 0.6 mm files and earlier 0.4 mm references.
+The user measured a 6.28 mm mouth, 11 mm internal cavity, 6.2 mm depth and approximately 5.7 mm floor width. Current v02 samples have sloped lower corners and require thin M5 nuts. Nut fit tests use the user's Prusa MK4S with MMU3, a selected 0.6 mm nozzle and Bambu PETG HF; the previously reported Bambu H2D remains available.
 
 ![Slim v0.2 Fusion layout study](design/slim-v02/slim-v02.png)
 

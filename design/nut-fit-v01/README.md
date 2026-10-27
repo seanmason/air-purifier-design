@@ -1,5 +1,7 @@
 # M5 nut-carrier fit samples v0.1
 
+**Superseded after failed physical fit.** The user reports these rectangular carriers do not fit the sloped cavity. Use [v02 chamfered thin-nut carriers](../nut-fit-v02/README.md). Historical settings and geometry below are retained for comparison.
+
 Designed 2026-10-27 for the user's photo and approximately **6.28 mm measured slot mouth**. These are end-loading fit samples requiring a metal M5 nut; they are not validated structural T-nuts.
 
 ![Three carriers, pocket side up](nut-fit-v01.png)
